@@ -1,0 +1,7 @@
+.vs/
+*.obj
+*.user
+*.suo
+*.cache
+*.pdb
+*.ilk
