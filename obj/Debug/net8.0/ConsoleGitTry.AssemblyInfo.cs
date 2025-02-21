@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleGitTry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1b79661d556fa0d848b8b0cecd2e1857150dfab")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleGitTry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleGitTry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
